@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "engine",
+    "macros",
+]
+resolver = "2"
